@@ -40,4 +40,4 @@ Hi there, I'm **Katie**  👩‍💻
 <br>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kguite" alt="kguite" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=katiemariedev" alt="katiemariedev" /></p>
