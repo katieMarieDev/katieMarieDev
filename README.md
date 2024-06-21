@@ -21,13 +21,13 @@ Hi there, I'm **Katie**  👩‍💻
 - 📗 Blogging: on Hashnode: https://katiemarie.hashnode.dev/ 
 
 **Conferences Attended...**
-- Upcoming: CascadiaJS, June 2024, Seattle, WA
+- CascadiaJS, June 2024, Seattle, WA
 - SeattleJS, August 2023, Seattle, WA
-- #SmashingConf, May 2023, San Francisco, CA
+- SmashingConf, May 2023, San Francisco, CA
 - Women in Tech Regatta, April 2023, Seattle, WA
 
 **A Little About Me...**
-- 📖 My portfolio can be found at https://www.katiemarie.dev
+- 📖 My portfolio can be found at https://www.katiemarie.dev (out of date, will update soon)
 - 👩 I love dark comedies, dark forests, and dark wave. 🎼
 
 **Languages:**
