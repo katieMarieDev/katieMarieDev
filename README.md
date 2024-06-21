@@ -10,7 +10,7 @@ Hi there, I'm **Katie**  👩‍💻
 
 **I Am Currently...**
 - 🌍 Working at a global health nonprofit
-- 🎒 Enrolled in a University of Washington Certificate program for Business Intelligence and Data Migration (SQL, ETL Processing, Azure, Visualizations)
+- 🎒 Recently completed a Certificate program for Business Intelligence and Data Migration (SQL, ETL Processing, Azure, Visualizations) from the University of Washington 
 - ♀️ Website manager for The National Organization for Women, Seattle: www.nowseattle.org, where I also lead a group of teen volunteers at www.nowseattle.org/that-cant-be-true
 - 🌱 Website manager for Seattle's Giving Garden Network: www.sggn.org
 
